@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Tasy]
+"Help_File"=""
+"Logo_File"="C:\\Tasy\\Padrao\\Logo.bmp"
+"Dir_Padrao"="C:\\Tasy\\Padrao"
+"Dir_Temp"="C:\\Tasy\\Temp"
+"Dir_Versao"="C:\\Tasy\\Versao"
+"Dir_Email"=""
+"Server_Name"="@tasy;@teste"
+"Blob_Size"="4096"
+"Blob_Cache"="4096"
+"Import"="imp"
+"MostraServBanco"=""
+"Porta_Serial"=""
+"Usuario_Banco"=""
+"Joystick"=""
+"Email_Logo_File"=""
+"Banco"=""
+"Usuario"=""
+"Export"="exp"
+
